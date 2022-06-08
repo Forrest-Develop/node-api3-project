@@ -1,5 +1,7 @@
 function logger(req, res, next) {
   // DO YOUR MAGIC
+  //make sure that the top down approach is followed
+  
 }
 
 function validateUserId(req, res, next) {
